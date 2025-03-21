@@ -7,15 +7,15 @@ body {
 }
 
 .preheader {
-    background-color: #0073e6;
+    background-color: palegoldenrod;
     color: white;
-    padding: 10px;
+    padding: 0px;
     text-align: right;
 }
 
 .fab {
-    font-size: 2em; /* Adjust the size */
-    padding: 10px; /* Add some space around the icon */
+    font-size: 1.5em; /* Adjust the size */
+    padding: 5px; /* Add some space around the icon */
     color: #3b5998; /* Example: Facebook color */
 }
 
@@ -28,6 +28,16 @@ body {
 .fa-instagram {
     color: #E1306C; /* Instagram pink */
 }
+.fa-pinterest {
+    color: red; /* Pinterest red */
+}
+.fa-youtube-shorts {
+    color: #da044b; /* Youtube red */
+}
+.fa-lemon {
+    color: #eef528; /* Lemon8 yellow */
+}
+
 
 .social-media-button {
     border-radius: 50%; /* Make it round */
